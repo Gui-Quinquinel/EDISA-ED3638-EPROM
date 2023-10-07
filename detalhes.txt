@@ -1,0 +1,3 @@
+Conteúdo EPROM 27256 - Referente ao CI U12 da placa ED-3638 (Terminal EDISA-Brasil)
+
+Faça download do repositório, abra o arquivo EDISA.BIN com um editor HEX

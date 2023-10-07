@@ -1,3 +1,11 @@
 Conteúdo EPROM 27256 - Referente ao CI U12 da placa ED-3638 (Terminal EDISA-Brasil)
 
-Faça download do repositório, abra o arquivo EDISA.BIN com um editor HEX
+Faça download do repositório, abra o arquivo "EDISA.BIN" com um editor HEX
+
+O conteúdo se trada de código de máquina com instruções para Z80, e alguns dados ASCII. A placa conta com Zilog Z80 CPU, PIO, SIO e CTC, além de duas
+SRAM 6116 e uma EPROM 27128 completamente vazia.
+
+Existem poucos detalhes sobre a EDISA na web, e até mesmo em grupos voltados a retro-computação, conteúdo sobre a mesma é nulo. Há algumas semanas 
+adquiri dois terminais ED-3638, na inteção de serem os primeiros terminais burros em meu acervo. Porém sem exito de fazer-los funcionar, resolvi usar 
+para dissecação e material de contribuição técnica. Não possuo muitos conhecimentos em fontes chaveadas e circuitos de CRT, tais creio estarem com 
+defeito, nos dois equipamentos.
